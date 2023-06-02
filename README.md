@@ -15,3 +15,8 @@
 ### Advantages
 - Focus on creating object for interface rather than implementation
 - Loose coupling implies more robus code
+
+### 3. Abstract Factory Design Pattern
+- Uses factory of factories to create an object
+- Extra layer of abstraction provides more code hiding
+
