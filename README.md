@@ -9,3 +9,9 @@
 - Serializing and Deserializing object
 - Using clone() method 
 
+### 2. Factory Design Pattern
+- Single Superclass and multiple child classes
+- Getting specific subclass based on input and requirement
+### Advantages
+- Focus on creating object for interface rather than implementation
+- Loose coupling implies more robus code
